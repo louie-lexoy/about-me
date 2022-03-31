@@ -1,0 +1,62 @@
+#wakanda {
+   border-radius: 60%;
+   display:40px;
+   position: relative;
+   left: 700px;
+
+}
+#name::first-letter {
+  font-size: 200%;
+  color: teal;}
+#name {
+  color:orange;
+  position: relative;
+  left: 800px;
+  font-size: 80px;
+
+
+}
+#you{
+  color:teal;
+  position: relative;
+  left: 600px;
+}
+#pop{
+color:orange;
+position: relative;
+left:800px;
+font-size: 20px;
+font-style: italic;
+}
+#mad{
+  color: ;
+}
+#cool{
+  background-color: orange;
+  position: relative;
+left: 870px;
+  color:white;
+  height: 50px;
+  width: 200px;
+  font-size: 22px;
+  font-weight: bold;
+  text-transform: capitalize;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px teal;
+}
+#pop:hover{
+  color:teal;
+  transform: scale(1.1);
+}
+#cool:hover{
+  background-color: teal;
+  opacity: 8px;
+  transform: scale(1.1);
+}
+#wakanda:hover{
+  transform: scale(1.1);
+}
+#you:hover{
+  transform: scale(1.1);
+}
+#name:ho
